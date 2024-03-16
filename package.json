@@ -19,7 +19,7 @@
         "Language.Curry.Distribution"
   ],
   "source": {
-        "git": "https://git.ps.informatik.uni-kiel.de/curry-packages/distribution.git",
+        "git": "https://github.com/curry-packages/distribution.git",
         "tag": "$version"
   }
 }
